@@ -47,7 +47,7 @@ Neurotechnology standards help foster ethical developments by professionals in t
 ![SQL](https://img.shields.io/badge/SQL-4479A1?&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white)
 
-## Frameworks
+### Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white)
@@ -55,7 +55,7 @@ Neurotechnology standards help foster ethical developments by professionals in t
 ![Angular](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white)
 ![DotNet](https://img.shields.io/badge/.NET-512BD4?&logo=.net&logoColor=white)
 
-## Tools
+### Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?&logo=sqlite&logoColor=white)
