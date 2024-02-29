@@ -12,7 +12,7 @@
 
 With 8 years of experience, I am well versed in local and web-based technologies, ready to design a solution from embedded systems to Machine Learning models. I am passionate about learning and how I can impact the lives of others.
 
-I am currently a Computer Science student at Worcester Polytechnic Institute (WPI) minoring in Astrophysics 🌌 and German  and a Software Engineering Intern at [Lockheed Martin](https://www.lockheedmartin.com).
+I am currently a Computer Science student at Worcester Polytechnic Institute (WPI) minoring in Astrophysics 🌌 and German 🇩🇪 and a Software Engineering Intern at [Lockheed Martin](https://www.lockheedmartin.com).
 
 ## Projects
 
