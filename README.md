@@ -1,5 +1,5 @@
 
-<img src="https://github.com/CBDevelopment/CBDevelopment/blob/main/IMG_9671.jpg" height="100%" width="100%">
+<img src="https://github.com/CBDevelopment/CBDevelopment/blob/main/IMG_9671.jpg">
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/cutterbeck/" target="blank">
